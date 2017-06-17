@@ -1,2 +1,2 @@
 # ffmpeg-resizer
-using ffmpeg exe to convert video's to small resolutions video's
+using ffmpeg exe to convert a video to small resolutions video
